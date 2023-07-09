@@ -41,7 +41,7 @@ jupyter notebook cluster.ipynb
 ## Clustering result
 
 wine type
-![App Screenshot](scatterplot/output.svg)
+![App Screenshot](scatter/output.svg)
 
 
 

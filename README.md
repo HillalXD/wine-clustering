@@ -1,5 +1,5 @@
 
-# Mall Customer Segmentation
+# Wine Clustering
 
 This project use to clustering wine based on different variable
 
